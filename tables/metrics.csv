@@ -1,0 +1,4 @@
+Algorithm&Accuracy&Precision&Recall&F-1
+Multinomial Naive Bayes&0.8812&0.9178&0.8375&0.8758
+CNN&0.8625&0.8816&0.8375&0.859
+CNN + Glove Embedding&0.7438&0.8679&0.575&0.6917
